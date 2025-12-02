@@ -6,6 +6,7 @@ Este es el **primer servicio que debe iniciarse**. Se encarga de leer las config
 
 ---
 ### 🔗 Mapa de Arquitectura
+0. [Config data](https://github.com/AlexaRamirezV/config-data.git)
 1.  ➡️ **[Config Server]** (estamos aquí)
 2.  [Registry Service (Eureka)](https://github.com/AlexaRamirezV/registry-service.git)
 3.  [Gateway Service](https://github.com/AlexaRamirezV/gateway-service.git)
